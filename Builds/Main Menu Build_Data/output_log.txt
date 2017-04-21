@@ -1,0 +1,43 @@
+Initialize engine version: 5.5.0x1-CollabPreview (09b457573f85)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4590
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.191 seconds
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\eddyc\Documents\Raindrop-Droptop\Builds\Main Menu Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.133034 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4250 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.282846 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.245727 ms (FindLiveObjects: 0.024098 ms CreateObjectMapping: 0.018567 ms MarkObjects: 0.190024 ms  DeleteObjects: 0.012641 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.313678 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 0.771949 ms (FindLiveObjects: 0.033185 ms CreateObjectMapping: 0.029629 ms MarkObjects: 0.688591 ms  DeleteObjects: 0.020148 ms)
+
